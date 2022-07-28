@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2022-07-28 20:00:56
 LastEditors: Vincent Young
-LastEditTime: 2022-07-28 20:13:28
+LastEditTime: 2022-07-28 20:25:28
 FilePath: /DouyinParser/DouyinParser/DouyinParser.py
 Telegram: https://t.me/missuo
 
@@ -46,4 +46,5 @@ def parser(original_url):
         'nickname': nickname,
         'id': shortid
     }
+    print(video_info)
     return video_info

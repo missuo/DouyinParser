@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2022-07-28 19:58:55
 LastEditors: Vincent Young
-LastEditTime: 2022-07-28 20:22:34
+LastEditTime: 2022-07-28 20:26:14
 FilePath: /DouyinParser/setup.py
 Telegram: https://t.me/missuo
 
@@ -16,7 +16,7 @@ with open("README.md","r") as fh:
 setup(
     name="DouyinParser",
     author="missuo",
-    version="0.0.2",
+    version="0.0.3",
     license='MIT',
     long_description= long_description,
     long_description_content_type="text/markdown",
